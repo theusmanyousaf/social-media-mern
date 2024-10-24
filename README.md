@@ -1,0 +1,1 @@
+<h1 align="center">Social Media Application</h1>
